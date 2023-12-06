@@ -19,7 +19,7 @@ const testimonials = [
     name: "Testimonial 3",
     avatar: "T",
     title: "CEO",
-    description: "ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+    description: "ut labore et dolore magna aliqua. Ut enim ad minim veniam ",
   },
   {
     name: "Testimonial 4",
