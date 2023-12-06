@@ -17,6 +17,8 @@ export const metadata: Metadata = {
   description: 'AI Platform',
 }
 
+export const dynamic = "force-dynamic"
+
 export default async function RootLayout({
   children,
 }: {
