@@ -19,7 +19,7 @@ export const LandingHero = () => {
               strings: [
                 "GPTs.",
                 "Automation.",
-                "Agents &.",
+                "Agents Swarms.",
                 "GPTs.",
                 "Photo Generation.",
                 "Content Writing.",
