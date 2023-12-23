@@ -17,10 +17,10 @@ export const LandingNavbar = () => {
     <nav className="p-4 bg-transparent flex items-center justify-between">
       <Link href="/" className="flex items-center">
         <div  className="relative h-8 w-8 mr-2">
-          <Image  width={100} height={100} alt="Logo" src="/logo.svg" />
+          <Image  width={100} height={100} alt="Sirocco Logo" src="/sirocco-logo.svg" />
         </div>
         <h1 className={cn("text-2xl font-bold text-white", font.className)}>
-        <Image width={180} height={100} alt="Logo2" src="/logo2.svg" />
+        <Image width={180} height={100} alt="Sirocco" src="/sirocco-logo-text.svg" />
         </h1>
       </Link>
       <div className="flex items-center gap-x-2">
